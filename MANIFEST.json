@@ -1,7 +1,7 @@
 {
     "collection_info": {
         "authors": [
-            "your name <example@domain.com>"
+            "Dario Cabeza"
         ],
         "dependencies": {},
         "description": "your collection description",
@@ -15,7 +15,7 @@
         "name": "my_collection",
         "namespace": "dariocabeza",
         "readme": "README.md",
-        "repository": "http://example.com/repository",
+        "repository": "https://github.com/DarioCabeza/my_collection",
         "tags": [],
         "version": "1.0.0"
     },
