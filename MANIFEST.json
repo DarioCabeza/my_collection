@@ -1,0 +1,30 @@
+{
+    "collection_info": {
+        "authors": [
+            "your name <example@domain.com>"
+        ],
+        "dependencies": {},
+        "description": "your collection description",
+        "documentation": "http://docs.example.com",
+        "homepage": "http://example.com",
+        "issues": "http://example.com/issue/tracker",
+        "license": [
+            "GPL-2.0-or-later"
+        ],
+        "license_file": null,
+        "name": "my_collection",
+        "namespace": "dariocabeza",
+        "readme": "README.md",
+        "repository": "http://example.com/repository",
+        "tags": [],
+        "version": "1.0.0"
+    },
+    "file_manifest_file": {
+        "chksum_sha256": null,
+        "chksum_type": "sha256",
+        "format": 1,
+        "ftype": "file",
+        "name": "FILES.json"
+    },
+    "format": 1
+}
